@@ -19,7 +19,7 @@ import "./Hero.css";
                         hugoperez80@hotmail.com
                     </a>
                 </p>
-                <p>📱 {hero.phone}</p>
+                
                 <p>👾<a href={hero.gitHub}>
                     GitHub
                 </a></p>

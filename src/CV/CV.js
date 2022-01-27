@@ -5,7 +5,6 @@ export const CV = {
     city: "Asturias",
     email: "hugoperez80@hotmail.com",
     birthDate: "12/04/1989",
-    phone: "(+12) 767333841",
     image: "https://res.cloudinary.com/dpm7xpjai/image/upload/v1643232060/HPG_7071_ywvzqo.jpg",
     gitHub: "https://github.com/HugoPerez13",
     aboutMe: [
