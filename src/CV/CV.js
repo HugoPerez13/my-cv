@@ -85,5 +85,5 @@ export const CV = {
     wrlevel: "Basico",
     splevel: "Medio",
   },
-  habilities: ["Trabajo en equipo", "proactivo", "Empatico"],
+  habilities: ["HTML5", "CSS/SCSS", "NODE", "MONGO DB", "ANGULAR" ],
 };
