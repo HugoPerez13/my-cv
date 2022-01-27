@@ -8,18 +8,21 @@
     padding-right: 20px;
     text-align: center;
     border-radius: 12px;
-    background-color: rgba(240, 248, 255, 0.241);
+    background-color: rgb(7, 1, 1);
   }
   img {
-    width: 150px;
+    width: 200px;
     margin: 20px;
     border-radius: 20px;
   }
   h2 {
-    color: black;
+    color: rgb(0, 0, 0);
     text-shadow: 2px 2px rgba(240, 248, 255, 0.241);
   }
   a {
-    color: #0b0089;
+    color: #47fa1a;
     text-decoration: none;
+  }
+  p {
+    color: rgb(255, 255, 255);
   }

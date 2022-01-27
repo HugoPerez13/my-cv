@@ -11,16 +11,16 @@ import "./Hero.css";
                 <h2>
                     {hero.name} {hero.adress}
                 </h2>
-                <p>🗺️{hero.city} </p>
-                <p>🗓️{hero.birthDate}</p>
+                <p>🌍{hero.city} </p>
+                <p>🎯{hero.birthDate}</p>
                 <p>
-                    📧
+                    📫
                     <a href={"mailto:" + hero.email}>
                         hugoperez80@hotmail.com
                     </a>
                 </p>
                 <p>📱 {hero.phone}</p>
-                <p>💾<a href={hero.gitHub}>
+                <p>👾<a href={hero.gitHub}>
                     GitHub
                 </a></p>
             </div>
